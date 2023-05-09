@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="webapp/WEB-INF/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Naphtal/Desktop/Naphtal/AIDS/AIDSSecondYear/Second_Semester/ESD/ESD_Skills/Doctor-Patient-Portal/target/classes/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Naphtal/Desktop/Naphtal/AIDS/AIDSSecondYear/Second_Semester/ESD/ESD_Skills/Doctor-Patient-Portal/target/classes/lib/jstl-api-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Naphtal/Desktop/Naphtal/AIDS/AIDSSecondYear/Second_Semester/ESD/ESD_Skills/Doctor-Patient-Portal/target/classes/lib/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Naphtal/Desktop/Naphtal/AIDS/AIDSSecondYear/Second_Semester/ESD/ESD_Skills/Doctor-Patient-Portal/target/classes/lib/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.0/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.0/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.0/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.0/lib/tomcat-util.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
